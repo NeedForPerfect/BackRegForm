@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vladimir",
+      "surname": "Shorinov",
+      "email": "300qdp@mail.com",
+      "password": "456Dvsfsef",
+      "age": "24"
+    },
+    {
+      "id": 1,
+      "name": "Thomas",
+      "surname": "Mcdonald",
+      "email": "thomas@gmail.com",
+      "password": "45qwerTyu",
+      "age": "24"
+    },
+    {
+      "id": 1,
+      "name": "Vladimir",
+      "surname": "Shorinov",
+      "email": "300qdp@mail.com",
+      "password": "456Dvsfsef",
+      "age": "24"
+    }
+  ]
+}
