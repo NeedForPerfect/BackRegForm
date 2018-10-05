@@ -9,20 +9,18 @@
       "age": "24"
     },
     {
-      "id": 1,
       "name": "Thomas",
-      "surname": "Mcdonald",
-      "email": "thomas@gmail.com",
-      "password": "45qwerTyu",
-      "age": "24"
+      "surname": "McDonald",
+      "email": "awd@dawda",
+      "password": "awdQw34!fs",
+      "id": 2
     },
     {
-      "id": 1,
-      "name": "Vladimir",
-      "surname": "Shorinov",
-      "email": "300qdp@mail.com",
-      "password": "456Dvsfsef",
-      "age": "24"
+      "name": "Anatoliy",
+      "surname": "Lebedev",
+      "email": "eee@eee",
+      "password": "wQ3!fesfsefse",
+      "id": 3
     }
   ]
 }
